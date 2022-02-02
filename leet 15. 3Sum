@@ -1,0 +1,26 @@
+class Solution:
+    def threeSum(self, nums: List[int]) -> List[List[int]]:
+        results = [] #합이 0이 되도록 하는 세 수의 list를 원소로 갖는 list
+        nums.sort() #Output이 인덱스가 아니므로 사용하여도 무관하다.
+        
+        for i in range(len(nums) - 2):
+            if i > 0 and nums[i] == nums[i - 1]:
+                continue #중복된 값은 그냥 넘어간다.
+            
+            left, right = i+1, len(nums) - 1
+            while left < right:
+                sum = nums[i] + nums[left] + nums[right]
+                if sum < 0:
+                    left += 1
+                elif sum > 0:
+                    right -= 1
+                else : #합이 0인 경우 results에 저장 후 중복값 제거 처리
+                    results.append((nums[i], nums[left], nums[right]))
+                    while left < right and nums[left] == nums[left+1]:
+                        left += 1
+                    while left < right and nums[right] == nums[right-1]:
+                        right -= 1
+                    left += 1
+                    right -= 1
+                    
+        return results
