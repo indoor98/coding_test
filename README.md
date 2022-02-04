@@ -10,6 +10,8 @@
 
 ###### [leet 49. Group Anagrams](https://github.com/indoor98/coding_test/blob/main/leet%2049.%20Group%20Anagrams.py)
 
+###### [leet 121. Best Time to Buy and Sell Stock](https://github.com/indoor98/coding_test/blob/main/leet%20121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)
+
 ###### [leet 125. Valid Palindrome](https://github.com/indoor98/coding_test/blob/main/leet%20125.%20Valid%20Palindrome)
 
 ###### [leet 234. Palindrome Linked List.py](https://github.com/indoor98/coding_test/blob/main/leet%20234.%20Palindrome%20Linked%20List.py)
@@ -24,7 +26,7 @@
 
 ###### [leet 937. Reorder Log Files](https://github.com/indoor98/coding_test/blob/main/leet%20937.%20Reorder%20Log%20Files)
 
-###### [leet 121. Best Time to Buy and Sell Stock](https://github.com/indoor98/coding_test/blob/main/leet%20121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)
+
 
 ###### []()
 ###### []()
