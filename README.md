@@ -2,6 +2,7 @@
 ## 목차
 ###### [leet 1. Two Sum](https://github.com/indoor98/coding_test/blob/main/leet%201.%20Two%20Sum.py)
 
+###### [leet 2. Add Two numbers](https://github.com/indoor98/coding_test/blob/main/leet%202.%20Add%20Two%20Numbers.py)
 ###### [leet 5. Longest Palindromic Substring](https://github.com/indoor98/coding_test/blob/main/leet%205.%20Longest%20Palindromic%20Substring.py)
 
 ###### [leet 15. 3Sum](https://github.com/indoor98/coding_test/blob/main/leet%2015.%203Sum)
