@@ -6,6 +6,10 @@
 ###### [leet 5. Longest Palindromic Substring](https://github.com/indoor98/coding_test/blob/main/leet%205.%20Longest%20Palindromic%20Substring.py)
 
 ###### [leet 15. 3Sum](https://github.com/indoor98/coding_test/blob/main/leet%2015.%203Sum)
+
+
+###### [leet 20. Valid Parentheses](https://github.com/indoor98/coding_test/blob/main/238.%20Product%20of%20Array%20Except%20Self.py)
+
 ###### [leet 21. Merge Two Sorted Lists](https://github.com/indoor98/coding_test/blob/main/leet%2021.%20Merge%20Two%20Sorted%20Lists.py)
 ###### [leet 24. Swap Nodes in Pairs](https://github.com/indoor98/coding_test/blob/main/leet%2024.%20Swap%20Nodes%20in%20Pairs.py)
 ###### [leet 42. Trapping Rain Water](https://github.com/indoor98/coding_test/blob/main/leet%2042.%20Trapping%20Rain%20Water.py)
@@ -40,7 +44,6 @@
 
 
 
-###### []()
 ###### []()
 ###### []()
 ###### []()
