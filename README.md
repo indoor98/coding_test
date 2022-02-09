@@ -26,6 +26,8 @@
 
 ###### [leet 225. Implement Stack Using Queues](https://github.com/indoor98/coding_test/blob/main/leet%20225.%20Implement%20Stack%20using%20Queues.py)
 
+###### [leet 232. Implemente Queue using Stack](https://github.com/indoor98/coding_test/blob/2c73dc2d8759f69c5860a03a5846ef87e03b9fff/leet%20232.%20Implemente%20Queue%20using%20Stack.py)
+
 ###### [leet 234. Palindrome Linked List](https://github.com/indoor98/coding_test/blob/main/leet%20234.%20Palindrome%20Linked%20List.py)
 
 ###### [leet 238. Product of Array Except Self](https://github.com/indoor98/coding_test/blob/main/238.%20Product%20of%20Array%20Exvept%20Self.py)
@@ -51,7 +53,7 @@
 
 
 
-###### []()
+###### [leet 232. Implemente Queue using Stack]()
 ###### []()
 ###### []()
 ###### []()
