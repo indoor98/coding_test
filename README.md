@@ -28,6 +28,8 @@
 
 ###### [leet 238. Product of Array Except Self](https://github.com/indoor98/coding_test/blob/main/238.%20Product%20of%20Array%20Exvept%20Self.py)
 
+###### [leet 316. Remove Duplicate Letters](https://github.com/indoor98/coding_test/blob/main/238.%20Product%20of%20Array%20Except%20Self.py)
+
 ###### [leet 328. Odd Even Linked List](https://github.com/indoor98/coding_test/blob/main/leet%20328.%20Odd%20Even%20Linked%20List.py)
 
 ###### [leet 344. ReverseString](https://github.com/indoor98/coding_test/blob/main/leet%20344.%20ReverseString)
@@ -44,7 +46,7 @@
 
 
 
-###### [leet 316. Remove Duplicate Letters](https://github.com/indoor98/coding_test/blob/main/238.%20Product%20of%20Array%20Except%20Self.py)
+
 ###### []()
 ###### []()
 ###### []()
