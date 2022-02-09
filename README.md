@@ -40,6 +40,8 @@
 
 ###### [leet 561. Array Partition I](https://github.com/indoor98/coding_test/blob/main/leet%20561.%20Array%20Partition%20I.py)
 
+###### [leet 622. Design Circular Queue](https://github.com/indoor98/coding_test/blob/main/leet%20622.%20Design%20Circular%20Queue.py)
+
 ###### [leet 739. Daily Temperatures](https://github.com/indoor98/coding_test/blob/main/leet%20739.%20Daily%20Temperatures.py)
 
 ###### [leet 819. Most Common Word](https://github.com/indoor98/coding_test/blob/main/leet%20819.%20Most%20Common%20Word.py)
@@ -53,7 +55,7 @@
 
 
 
-###### [leet 232. Implemente Queue using Stack]()
+
 ###### []()
 ###### []()
 ###### []()
