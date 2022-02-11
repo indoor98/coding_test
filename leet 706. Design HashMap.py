@@ -10,7 +10,7 @@ class MyHashMap:
 
     def __init__(self):
         self.size = 1000 #사이즈를 1000으로 적당히 설정
-        self.table = collctions.defaultdict(ListNode)
+        self.table = collections.defaultdict(ListNode)
 
     def put(self, key: int, value: int) -> None:
         index = key % self.size
