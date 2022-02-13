@@ -4,7 +4,7 @@
 
 ###### [leet 2. Add Two numbers](https://github.com/indoor98/coding_test/blob/main/leet%202.%20Add%20Two%20Numbers.py)
 
-###### [leet 3. Longest Substring Without Repeating Characters](https://github.com/indoor98/coding_test/blob/main/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py)
+###### [leet 3. Longest Substring Without Repeating Characters](https://github.com/indoor98/coding_test/blob/main/leet%203.%20Longest%20Substring%20Without%20Repeating%20Characters.py)
 
 ###### [leet 5. Longest Palindromic Substring](https://github.com/indoor98/coding_test/blob/main/leet%205.%20Longest%20Palindromic%20Substring.py)
 
