@@ -49,6 +49,8 @@
 
 ###### [leet 739. Daily Temperatures](https://github.com/indoor98/coding_test/blob/main/leet%20739.%20Daily%20Temperatures.py)
 
+###### [leet 771. Jewels and Stones](https://github.com/indoor98/coding_test/blob/main/leet%20771.%20Jewels%20and%20Stones.py)
+
 ###### [leet 819. Most Common Word](https://github.com/indoor98/coding_test/blob/main/leet%20819.%20Most%20Common%20Word.py)
 
 ###### [leet 937. Reorder Log Files](https://github.com/indoor98/coding_test/blob/main/leet%20937.%20Reorder%20Log%20Files.py)
@@ -63,7 +65,7 @@
 
 
  
-###### []()
+ 
 ###### []()
 ###### []()
 ###### []()
