@@ -10,7 +10,7 @@
 
 ###### [leet 15. 3Sum](https://github.com/indoor98/coding_test/blob/main/leet%2015.%203Sum)
 
-#####3 [leet 17. Letter Combinations of a Phone Number](https://github.com/indoor98/coding_test/blob/main/leet%2017.%20Letter%20Combinations%20of%20a%20Phone%20Number.py)
+###### [leet 17. Letter Combinations of a Phone Number](https://github.com/indoor98/coding_test/blob/main/leet%2017.%20Letter%20Combinations%20of%20a%20Phone%20Number.py)
 
 ###### [leet 20. Valid Parentheses](https://github.com/indoor98/coding_test/blob/main/238.%20Product%20of%20Array%20Except%20Self.py)
 
