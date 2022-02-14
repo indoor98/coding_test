@@ -28,6 +28,8 @@
 
 ###### [leet 125. Valid Palindrome](https://github.com/indoor98/coding_test/blob/main/leet%20125.%20Valid%20Palindrome)
 
+###### [leet 200. Number of Islands](https://github.com/indoor98/coding_test/blob/main/leet%20200.%20Number%20of%20Islands.py)
+
 ###### [leet 206. Reverse Linked List](https://github.com/indoor98/coding_test/blob/main/leet%20206.%20Reverse%20Linked%20List.py)
 
 ###### [leet 225. Implement Stack Using Queues](https://github.com/indoor98/coding_test/blob/main/leet%20225.%20Implement%20Stack%20using%20Queues.py)
