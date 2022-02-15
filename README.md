@@ -21,6 +21,7 @@
 ###### [leet 24. Swap Nodes in Pairs](https://github.com/indoor98/coding_test/blob/main/leet%2024.%20Swap%20Nodes%20in%20Pairs.py)
 ###### [leet 42. Trapping Rain Water](https://github.com/indoor98/coding_test/blob/main/leet%2042.%20Trapping%20Rain%20Water.py)
 
+###### [leet 46. Permutations](https://github.com/indoor98/coding_test/blob/main/leet%2046.%20Permutations.py)
 ###### [leet 49. Group Anagrams](https://github.com/indoor98/coding_test/blob/main/leet%2049.%20Group%20Anagrams.py)
 
 ###### [leet 92. Reverse Linked List II](https://github.com/indoor98/coding_test/blob/main/leet%2092.%20Reverse%20Linked%20List%20II.py)
