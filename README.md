@@ -19,12 +19,17 @@
 ###### [leet 23. Merge k Sorted Lists](https://github.com/indoor98/coding_test/blob/main/leet%2023.%20Merge%20k%20Sorted%20Lists.py)
 
 ###### [leet 24. Swap Nodes in Pairs](https://github.com/indoor98/coding_test/blob/main/leet%2024.%20Swap%20Nodes%20in%20Pairs.py)
+
+###### [leet 39. Combination Sum](https://github.com/indoor98/coding_test/blob/main/leet%2039.%20Combination%20Sum.py)
+
 ###### [leet 42. Trapping Rain Water](https://github.com/indoor98/coding_test/blob/main/leet%2042.%20Trapping%20Rain%20Water.py)
 
 ###### [leet 46. Permutations](https://github.com/indoor98/coding_test/blob/main/leet%2046.%20Permutations.py)
 ###### [leet 49. Group Anagrams](https://github.com/indoor98/coding_test/blob/main/leet%2049.%20Group%20Anagrams.py)
 
 ###### [leet 77. Combinaions](https://github.com/indoor98/coding_test/blob/main/leet%2077.%20Combinations.py)
+
+###### [leet 78. Subsets](https://github.com/indoor98/coding_test/blob/main/leet%2078.%20Subsets.py)
 
 ###### [leet 92. Reverse Linked List II](https://github.com/indoor98/coding_test/blob/main/leet%2092.%20Reverse%20Linked%20List%20II.py)
 
@@ -77,8 +82,8 @@
  
  
 
-###### []()
-###### []()
+ 
+ 
 ###### []()
 ###### []()
 ###### []()
