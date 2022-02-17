@@ -41,6 +41,8 @@
 
 ###### [leet 206. Reverse Linked List](https://github.com/indoor98/coding_test/blob/main/leet%20206.%20Reverse%20Linked%20List.py)
 
+###### [leet 207. Course Schedule](https://github.com/indoor98/coding_test/blob/main/leet%20207.%20Course%20Schedule.py)
+
 ###### [leet 225. Implement Stack Using Queues](https://github.com/indoor98/coding_test/blob/main/leet%20225.%20Implement%20Stack%20using%20Queues.py)
 
 ###### [leet 232. Implemente Queue using Stack](https://github.com/indoor98/coding_test/blob/2c73dc2d8759f69c5860a03a5846ef87e03b9fff/leet%20232.%20Implemente%20Queue%20using%20Stack.py)
@@ -50,6 +52,8 @@
 ###### [leet 238. Product of Array Except Self](https://github.com/indoor98/coding_test/blob/main/238.%20Product%20of%20Array%20Exvept%20Self.py)
 
 ###### [leet 316. Remove Duplicate Letters](https://github.com/indoor98/coding_test/blob/main/238.%20Product%20of%20Array%20Except%20Self.py)
+
+###### [leet 332. Reconstruct Itinerary](https://github.com/indoor98/coding_test/blob/main/leet%20332.%20Reconstruct%20Itinerary.py)
 
 ###### [leet 328. Odd Even Linked List](https://github.com/indoor98/coding_test/blob/main/leet%20328.%20Odd%20Even%20Linked%20List.py)
 
@@ -62,6 +66,8 @@
 ###### [leet 706. Design HashMap](https://github.com/indoor98/coding_test/blob/main/leet%20706.%20Design%20HashMap.py)
 
 ###### [leet 739. Daily Temperatures](https://github.com/indoor98/coding_test/blob/main/leet%20739.%20Daily%20Temperatures.py)
+
+###### [leet 743. Network Delay Time](https://github.com/indoor98/coding_test/blob/main/leet%20743.%20Network%20Delay%20Time.py)
 
 ###### [leet 771. Jewels and Stones](https://github.com/indoor98/coding_test/blob/main/leet%20771.%20Jewels%20and%20Stones.py)
 
@@ -84,8 +90,8 @@
 
  
  
-###### []()
-###### []()
+
+
 ###### []()
 ###### []()
 ###### []()
