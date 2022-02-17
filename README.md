@@ -33,6 +33,8 @@
 
 ###### [leet 92. Reverse Linked List II](https://github.com/indoor98/coding_test/blob/main/leet%2092.%20Reverse%20Linked%20List%20II.py)
 
+###### [leet 104. Maximum Depth of Binary Tree](https://github.com/indoor98/coding_test/blob/main/leet%20104.%20Maximum%20Depth%20of%20Binary%20Tree.py)
+
 ###### [leet 121. Best Time to Buy and Sell Stock](https://github.com/indoor98/coding_test/blob/main/leet%20121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)
 
 ###### [leet 125. Valid Palindrome](https://github.com/indoor98/coding_test/blob/main/leet%20125.%20Valid%20Palindrome)
@@ -59,6 +61,8 @@
 
 ###### [leet 344. ReverseString](https://github.com/indoor98/coding_test/blob/main/leet%20344.%20ReverseString)
 
+###### [leet 543. Diameter of Binary Tree](https://github.com/indoor98/coding_test/blob/main/leet%20543.%20Diameter%20of%20Binary%20Tree.py)
+
 ###### [leet 561. Array Partition I](https://github.com/indoor98/coding_test/blob/main/leet%20561.%20Array%20Partition%20I.py)
 
 ###### [leet 622. Design Circular Queue](https://github.com/indoor98/coding_test/blob/main/leet%20622.%20Design%20Circular%20Queue.py)
@@ -70,6 +74,8 @@
 ###### [leet 743. Network Delay Time](https://github.com/indoor98/coding_test/blob/main/leet%20743.%20Network%20Delay%20Time.py)
 
 ###### [leet 771. Jewels and Stones](https://github.com/indoor98/coding_test/blob/main/leet%20771.%20Jewels%20and%20Stones.py)
+
+###### [leet 787. Cheapest Flights Whithin K Stops](https://github.com/indoor98/coding_test/blob/main/leet%20787.%20Cheapest%20Flights%20Whithin%20%20K%20Stops.py)
 
 ###### [leet 819. Most Common Word](https://github.com/indoor98/coding_test/blob/main/leet%20819.%20Most%20Common%20Word.py)
 
@@ -92,9 +98,8 @@
  
 
 
-###### []()
-###### []()
-###### []()
+
+
 
 
 ###### []()
