@@ -35,6 +35,7 @@
 
 ###### [leet 104. Maximum Depth of Binary Tree](https://github.com/indoor98/coding_test/blob/main/leet%20104.%20Maximum%20Depth%20of%20Binary%20Tree.py)
 
+###### [leet 105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/indoor98/coding_test/blob/main/leet%20105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.py)
 ###### [leet 108. Convert Sorted Array to Binary Search Tree](https://github.com/indoor98/coding_test/blob/main/leet%20108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.py)
 
 ###### [leet 121. Best Time to Buy and Sell Stock](https://github.com/indoor98/coding_test/blob/main/leet%20121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)
@@ -77,6 +78,7 @@
 
 ###### [leet 771. Jewels and Stones](https://github.com/indoor98/coding_test/blob/main/leet%20771.%20Jewels%20and%20Stones.py)
 
+###### [leet 783. Minimum Distance Between BST Nodes](https://github.com/indoor98/coding_test/blob/main/leet%20783.%20Minimum%20Distance%20Between%20BST%20Nodes.py)
 ###### [leet 787. Cheapest Flights Whithin K Stops](https://github.com/indoor98/coding_test/blob/main/leet%20787.%20Cheapest%20Flights%20Whithin%20%20K%20Stops.py)
 
 ###### [leet 819. Most Common Word](https://github.com/indoor98/coding_test/blob/main/leet%20819.%20Most%20Common%20Word.py)
