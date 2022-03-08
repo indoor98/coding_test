@@ -29,6 +29,8 @@
 ###### [leet 46. Permutations](https://github.com/indoor98/coding_test/blob/main/leet%2046.%20Permutations.py)
 ###### [leet 49. Group Anagrams](https://github.com/indoor98/coding_test/blob/main/leet%2049.%20Group%20Anagrams.py)
 ###### [leet 56. Merge Intervals](https://github.com/indoor98/coding_test/blob/main/leet%2056.%20Merge%20Intervals.py)
+
+###### [leet 75. Sort Colors](https://github.com/indoor98/coding_test/blob/main/leet%2075.%20Sort%20Colors.py)
 ###### [leet 77. Combinaions](https://github.com/indoor98/coding_test/blob/main/leet%2077.%20Combinations.py)
 
 ###### [leet 78. Subsets](https://github.com/indoor98/coding_test/blob/main/leet%2078.%20Subsets.py)
