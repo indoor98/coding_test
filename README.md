@@ -45,6 +45,10 @@
 ###### [leet 125. Valid Palindrome](https://github.com/indoor98/coding_test/blob/main/leet%20125.%20Valid%20Palindrome)
 ###### [leet 147. Insertion Sort List](https://github.com/indoor98/coding_test/blob/main/leet%20147.%20Insertion%20Sort%20List.py)
 ###### [leet 148. Sort List](https://github.com/indoor98/coding_test/blob/main/leet%20148.%20Sort%20List.py)
+
+###### [leet 179. Largest Number](https://github.com/indoor98/coding_test/blob/main/leet%20179.%20Largest%20Number.py)
+
+
 ###### [leet 200. Number of Islands](https://github.com/indoor98/coding_test/blob/main/leet%20200.%20Number%20of%20Islands.py)
 
 ###### [leet 206. Reverse Linked List](https://github.com/indoor98/coding_test/blob/main/leet%20206.%20Reverse%20Linked%20List.py)
@@ -61,6 +65,9 @@
 ###### [leet 234. Palindrome Linked List](https://github.com/indoor98/coding_test/blob/main/leet%20234.%20Palindrome%20Linked%20List.py)
 
 ###### [leet 238. Product of Array Except Self](https://github.com/indoor98/coding_test/blob/main/238.%20Product%20of%20Array%20Exvept%20Self.py)
+
+
+###### [leet 242. Valid Anagram](https://github.com/indoor98/coding_test/blob/main/leet%20242.%20Valid%20Anagram.py)
 
 ###### [leet 316. Remove Duplicate Letters](https://github.com/indoor98/coding_test/blob/main/238.%20Product%20of%20Array%20Except%20Self.py)
 
