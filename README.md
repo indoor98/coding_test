@@ -22,6 +22,7 @@
 
 ###### [leet 24. Swap Nodes in Pairs](https://github.com/indoor98/coding_test/blob/main/leet%2024.%20Swap%20Nodes%20in%20Pairs.py)
 
+###### [leet 33. Search in Rotated Sorted Array](https://github.com/indoor98/coding_test/blob/main/leet%2033.Search%20in%20Rotated%20Sorted%20Array.py)
 ###### [leet 39. Combination Sum](https://github.com/indoor98/coding_test/blob/main/leet%2039.%20Combination%20Sum.py)
 
 ###### [leet 42. Trapping Rain Water](https://github.com/indoor98/coding_test/blob/main/leet%2042.%20Trapping%20Rain%20Water.py)
